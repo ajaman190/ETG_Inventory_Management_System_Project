@@ -22,9 +22,17 @@ Thanks for giving us such a great opportunity to enhance our skills.
 #Code Features:
 
           #    - Can Buy multiple product
+                      - Can Inform you if the product is not available
+                      - Can Inform you if the product quatity in stock is less than customer demand
+                      
           #    - Can Update the item details of the items in the inventory
           #    - Can New Add the items in the inventory 
           #    - Can Generate well indented bills
+          <p align="center">
+                    <img src="your_relative_path_here" width="350" title="hover text">
+                    <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+          </p>
+          
           #    - Can Print the purchase detail with the customer id
           #    - Can print the inventory list
 
