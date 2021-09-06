@@ -2,6 +2,17 @@
 # Inventory Management System
 
 An Inventory management system enables a company to maintain a centralized record of every asset and item in the control of the organization, providing a single source of truth for the location of every item, vendor and supplier information, specifications, and the total number of a particular item currently in stock.
+
+## Repository Files Overview
+
+| Files             | What they Contains ?                                                               |
+| ----------------- | ------------------------------------------------------------------ |
+| IMS.ipynb |Inventory Management System Jupyter Notebook Code |
+| originalRecord.json |Original record file contained all the initial item details in .json format |
+| salesRecord.json |  Updated record file after Buy/Add/Update operation|
+| purchaseRecord.json | Stores all the purchased details with their unique customer id  |
+
+
 ## Features
 
 - Buy multiple product
