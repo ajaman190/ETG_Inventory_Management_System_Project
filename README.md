@@ -1,40 +1,35 @@
-# ETG_InventoryMangementSystem
-I'm Aman Kumar. I am a 2nd year undergraduate of IIT Kharagpur and I have successfully completed my first mini project of Inventory Management System given by ETG in Skill India Python for ML/AI Internship.
-Thanks for giving us such a great opportunity to enhance our skills.
 
-#Overview:
-          
-          #     An inventory management system enables a company to maintain a centralized record of every asset and item in the control of the organization, providing a single  
-                source of truth for the location of every item, vendor and supplier information, specifications, and the total number of a particular item currently in stock.
+# Inventory Management System
 
+An Inventory management system enables a company to maintain a centralized record of every asset and item in the control of the organization, providing a single source of truth for the location of every item, vendor and supplier information, specifications, and the total number of a particular item currently in stock.
+## Features
+
+- Buy multiple product
+    - Can Inform when the product is not available in the stock.
+    - Can Inform when the product quatity in stock is less than customer demand.
+
+- Update the item details
+    - Product Name, Category, Unit Price, Qyantity, Discount Available
+
+- Add the new items in the stock.
+- Print the purchase detail using the unique customer id.
+- Generate well indented bills.
+- Print the inventory list.
+## Demo
+
+Insert gif or link to demo
+
+  
+## 🚀 About Me
+I'm Aman Kumar. I am a 2nd year undergraduate of IIT Kharagpur and I have successfully completed my first mini project of Inventory Management System given by ETG in Skill India Python for ML/AI Internship. Thanks for giving us such a great opportunity to enhance our skills.
+
+  
 #Files :
 
           #    - IMS.ipynb : IMS python code
           #    - originalRecord.json : Original inventory dict
           #    - salesRecord.json : Updated inventory dict after exiting the inventory
           #    - purchaseRecord.json : Stores all the purchased detail in dict
-
-
-#Demonstration Video :
-
-          
-
-#Code Features:
-
-          #    - Can Buy multiple product
-                      - Can Inform you if the product is not available
-                      - Can Inform you if the product quatity in stock is less than customer demand
-                      
-          #    - Can Update the item details of the items in the inventory
-          #    - Can New Add the items in the inventory 
-          #    - Can Generate well indented bills
-          <p align="center">
-                    <img src="your_relative_path_here" width="350" title="hover text">
-                    <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
-          </p>
-          
-          #    - Can Print the purchase detail with the customer id
-          #    - Can print the inventory list
 
 
 #Product Features:
