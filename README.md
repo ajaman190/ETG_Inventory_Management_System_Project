@@ -70,7 +70,7 @@ link to demo video ( will uploaded soon )
 
 ## Working of Code
 
-
+![Option](https://github.com/ajaman190/ETG_Inventory_Management_System_Project/blob/main/Images/Screenshot%202021-09-07%20094555.png)
 ```bash
 ● Press 'A' - To Add new product in the inventory
 
