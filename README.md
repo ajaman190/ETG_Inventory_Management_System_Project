@@ -21,8 +21,10 @@ An Inventory management system enables a company to maintain a centralized recor
 
 - Update the item details
     - Product Name, Category, Unit Price, Qyantity, Discount Available
+    - Can alert if the product is not available and ask you to add it instead of updating it.
 
 - Add the new items in the stock.
+    - Can alert if the product is already available and ask you to update it instead of adding it.
 - Print the purchase detail using the unique customer id.
 - Generate well indented bills.
 - Print the inventory list.## Repository Files Overview
@@ -121,6 +123,22 @@ An Inventory management system enables a company to maintain a centralized recor
 
 ● Press 'E' - To Exit
 ```
+
+## Alert Screenshots
+
+  - When Buy:
+    - Product is not available in the stock.
+    - Product quantity available in the stock is less than demand.
+  ![Not available](https://github.com/ajaman190/ETG_Inventory_Management_System_Project/blob/main/Images/Screenshot%202021-09-06%20203400.png)
+
+  - When Add:
+    - Product is already available in the stock "Update it".
+  ![available](https://github.com/ajaman190/ETG_Inventory_Management_System_Project/blob/main/Images/Screenshot%202021-09-07%20184702.png)
+
+- When Update:
+    - Product is not available in the stock "Add it".
+  ![Not available](https://github.com/ajaman190/ETG_Inventory_Management_System_Project/blob/main/Images/Screenshot%202021-09-07%20184829.png)
+  
 ## Software Used
 
    IDE - [Jupyter Notebook](https://jupyter.org/)
