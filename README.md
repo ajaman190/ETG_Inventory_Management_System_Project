@@ -131,5 +131,14 @@ I'm Aman Kumar. I am a 2nd year undergraduate of IIT Kharagpur and I have succes
 
 ## 🔗 Contact Me
 
-[![portfolio](https://github.com/ajaman190/ETG_Inventory_Management_System_Project/blob/main/Images/Social%20Media%20Logo/1964417_github_logo_media_social_icon.png)](https://github.com/ajaman190)[![kaggle](https://github.com/ajaman190/ETG_Inventory_Management_System_Project/blob/main/Images/Social%20Media%20Logo/4373210_kaggle_logo_logos_icon.png)](https://www.kaggle.com/aman190)[![linkedin](https://github.com/ajaman190/ETG_Inventory_Management_System_Project/blob/main/Images/Social%20Media%20Logo/5296501_linkedin_network_linkedin%20logo_icon.png)](https://www.linkedin.com/in/aman-kumar-586b23216/)
+###### GitHub
+[![portfolio](https://github.com/ajaman190/ETG_Inventory_Management_System_Project/blob/main/Images/Social%20Media%20Logo/1964417_github_logo_media_social_icon.png)](https://github.com/ajaman190) 
+
+
+###### Kaggle
+[![kaggle](https://github.com/ajaman190/ETG_Inventory_Management_System_Project/blob/main/Images/Social%20Media%20Logo/4373210_kaggle_logo_logos_icon.png)](https://www.kaggle.com/aman190)
+
+
+###### Linkedin
+[![linkedin](https://github.com/ajaman190/ETG_Inventory_Management_System_Project/blob/main/Images/Social%20Media%20Logo/5296501_linkedin_network_linkedin%20logo_icon.png)](https://www.linkedin.com/in/aman-kumar-586b23216/)
 
