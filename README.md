@@ -89,7 +89,7 @@ link to demo video ( will uploaded soon )
                             - If required product quantity is available in stock:
                                     - It will update the product quantity and product stock price in products dict
                                     - Save the purchased date/time, product name, quantity and total price
-                                    - Call salesRecord() funtion to store the details of sold product in json format
+                                    - Call purchaseRecord() funtion to store the details of sold product in json format
                                     - Save the purchased item and quantity in purchased list
                                     - And ask you "To press (y/n) for continuing buying"
 
@@ -116,6 +116,8 @@ link to demo video ( will uploaded soon )
 
 
 ● Press 'P' - To print the purchase detail of Customer with their customer id.
+                  
+                - Call purchaseDetial() funtion and ask to enter customer id.
 
 ● Press 'E' - To Exit
 ```
