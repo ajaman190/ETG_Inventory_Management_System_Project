@@ -65,6 +65,7 @@ link to demo video ( will uploaded soon )
         - Product Name
         - Purchased quantity
         - Total Price
+        - Purchase date & time
 
   ![Purchased Record](https://github.com/ajaman190/ETG_Inventory_Management_System_Project/blob/main/Images/Screenshot%202021-09-06%20203219.png)
 
