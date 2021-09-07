@@ -2,9 +2,7 @@
 # Inventory Management System
 
 An Inventory management system enables a company to maintain a centralized record of every asset and item in the control of the organization, providing a single source of truth for the location of every item, vendor and supplier information, specifications, and the total number of a particular item currently in stock.
-## Demo
 
-link to demo video ( will uploaded soon )
 
 ## Repository Files
 
