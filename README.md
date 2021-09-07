@@ -6,7 +6,15 @@ An Inventory management system enables a company to maintain a centralized recor
 
 link to demo video ( will uploaded soon )
 
-  
+## Repository Files
+
+  | Files             | What they Contains ?                                                               |
+| ----------------- | ------------------------------------------------------------------ |
+| IMS.ipynb |Inventory Management System Jupyter Notebook Code |
+| originalRecord.json |Original record file contained all the initial item details in .json format |
+| salesRecord.json |  Updated record file after Buy/Add/Update operation|
+| purchaseRecord.json | #00d1a0 |
+
 ## Features
 
 - Buy multiple product
@@ -21,12 +29,6 @@ link to demo video ( will uploaded soon )
 - Generate well indented bills.
 - Print the inventory list.## Repository Files Overview
 
-| Files             | What they Contains ?                                                               |
-| ----------------- | ------------------------------------------------------------------ |
-| IMS.ipynb |Inventory Management System Jupyter Notebook Code |
-| originalRecord.json |Original record file contained all the initial item details in .json format |
-| salesRecord.json |  Updated record file after Buy/Add/Update operation|
-| purchaseRecord.json | #00d1a0 |
 
 
 ## Product Feature
