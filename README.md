@@ -13,7 +13,7 @@ link to demo video ( will uploaded soon )
 | IMS.ipynb |Inventory Management System Jupyter Notebook Code |
 | originalRecord.json |Original record file contained all the initial item details in .json format |
 | salesRecord.json |  Updated record file after Buy/Add/Update operation|
-| purchaseRecord.json | #00d1a0 |
+| purchaseRecord.json | Purchased history of customer, it can be access by their unique customer id |
 
 ## Features
 
