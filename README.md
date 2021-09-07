@@ -67,6 +67,7 @@ An Inventory management system enables a company to maintain a centralized recor
 
   ![Purchased Record](https://github.com/ajaman190/ETG_Inventory_Management_System_Project/blob/main/Images/Screenshot%202021-09-06%20203219.png)
 
+
 ## Working of Code
 
 ![Option](https://github.com/ajaman190/ETG_Inventory_Management_System_Project/blob/main/Images/Screenshot%202021-09-07%20094555.png)
@@ -120,10 +121,17 @@ An Inventory management system enables a company to maintain a centralized recor
 
 ● Press 'E' - To Exit
 ```
+## Software Used
+
+   IDE - [Jupyter Notebook](https://jupyter.org/)
+   
+   Language - Pyhton3
 
   
 ## 🚀 About Me
-I'm Aman Kumar. I am a 2nd year undergraduate of IIT Kharagpur and I have successfully completed my first mini project of Inventory Management System given by ETG in Skill India Python for ML/AI Internship. Thanks for giving us such a great opportunity to enhance our skills.
+I'm Aman Kumar, a 2nd year undergraduate of IIT Kharagpur.
+
+I have successfully completed my first mini project of Inventory Management System given by ETG in Skill India Python for ML/AI Internship. Thanks for giving us such a great opportunity to enhance our skills.
 
 
 
