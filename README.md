@@ -71,7 +71,7 @@ An Inventory management system enables a company to maintain a centralized recor
 
 ## Demonstration Video
 
-  https://github.com/ajaman190/ETG_Inventory_Management_System_Project/blob/main/Images/Project%205-1.mp4
+[![Demo Video](https://img.youtube.com/viq6KeSWjBHgM/0.jpg)](https://www.youtube.com/watch?v=q6KeSWjBHgM)
   
 ## Working of Code
 
