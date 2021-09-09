@@ -27,7 +27,7 @@ An Inventory management system enables a company to maintain a centralized recor
     - Can alert if the product is already available and ask you to update it instead of adding it.
 - Print the purchase detail using the unique customer id.
 - Generate well indented bills.
-- Print the inventory list.## Repository Files Overview
+- Print the inventory list.
 
 
 
