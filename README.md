@@ -150,7 +150,7 @@ An Inventory management system enables a company to maintain a centralized recor
 
   
 ## 🚀 About Me
-I'm Aman Kumar, a 2nd year undergraduate of IIT Kharagpur. I am an aspiring programmer wish to solve problem by the mean of logic, maths and programming. 
+**I'm Aman Kumar, a 2nd year undergraduate of IIT Kharagpur.** I am an aspiring programmer wish to solve problem by the mean of logic, maths and programming. 
 
 I have successfully completed my first mini project of Inventory Management System given by ETG in Skill India Python for ML/AI Internship. Thanks for giving us such a great opportunity to enhance our skills.
 
