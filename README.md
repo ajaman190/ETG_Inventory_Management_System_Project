@@ -13,6 +13,8 @@ An Inventory management system enables a company to maintain a centralized recor
 | salesRecord.json |  Updated record file after Buy/Add/Update operation|
 | purchaseRecord.json | Purchased history of customer, it can be access by their unique customer id |
 
+ **It would be better if you watch the demonstration video** [![Demo Video](https://img.youtube.com/viq6KeSWjBHgM/0.jpg)](https://www.youtube.com/watch?v=q6KeSWjBHgM)
+ 
 ## Features
 
 - Buy multiple product
@@ -68,10 +70,6 @@ An Inventory management system enables a company to maintain a centralized recor
         - Purchase date & time
 
   ![Purchased Record](https://github.com/ajaman190/ETG_Inventory_Management_System_Project/blob/main/Images/Screenshot%202021-09-06%20203219.png)
-
-## Demonstration Video
-
-[![Demo Video](https://img.youtube.com/viq6KeSWjBHgM/0.jpg)](https://www.youtube.com/watch?v=q6KeSWjBHgM)
   
 ## Working of Code
 
